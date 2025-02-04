@@ -1,0 +1,11 @@
+{
+    "compatibility_version": 2,
+        "display_version": "1.0.0",
+	"display_name": "Blue Shields Vasari",
+    "short_description": "Original mod: Shields Are Blue Vasari (by Darkmodio2) . Changes Vasari shield impact effect color from green to blue. Ships frame bar colors are untouched.",
+    "long_description": "Repository: https://github.com/fredomain/BlueShieldsVasari",
+    "logos": {
+        "small_logo": "small_logo.png",
+        "large_logo": "large_logo.png"
+    }
+}
